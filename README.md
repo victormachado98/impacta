@@ -1,4 +1,5 @@
 # impacta
 # Nome: Victor Machado
-# Faculdade: FIT
+# Faculdade: Faculdade Impacta Tecnologia
 # Matéria: Gestão de Configuração e Mudança
+# Semestre: 3º
